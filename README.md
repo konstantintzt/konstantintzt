@@ -4,7 +4,7 @@
 I work on various types of projects, complicated and simpler ones. On this GitHub, you'll find all of the repositories of my open-source projects. This is a list of some of the most interesting ones (I still encourage you to check the others out if you're interested):
  - [Sorting algorithm visualizer](https://github.com/konstantintzt/sorting-algorithms)
  - [Image Editor](https://github.com/konstantintzt/Image-Editor)
- - [Chronophotograph generator](https://github.com/konstantintzt/chronophoto)
+ - [GIF Captioner](https://github.com/konstantintzt/gif-caption)
 
 # ▶ YouTube
 
