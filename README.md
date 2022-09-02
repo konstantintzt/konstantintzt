@@ -1,5 +1,5 @@
 # Hi!
-I'm Konstantin, an incoming CS freshman at UCLA! I like coding, math and 3D modeling! If you want to learn more about me, check out my [personal website](http://tzantchev.com) (still under construction, so it might not yet be active when you're reading this!).
+I'm Konstantin, a CS student at UCLA! I like coding, math and 3D modeling! If you want to learn more about me, check out my [personal website](http://tzantchev.com) (still under construction, so it might not yet be active when you're reading this!).
 
 # 🖥 Projects
 I work on various types of projects, ranging from web apps to image manipulation tools. On this GitHub, you'll find all of the repositories for my open-source projects. This is a list of some of the most interesting ones (I still encourage you to check the others out if you're interested):
