@@ -1,15 +1,15 @@
 # 👋 Hi!
-I'm Konstantin, a CS student at UCLA! I like coding, math and 3D modeling! I'm interested in using computer science and software engineering to solve societal problems and help people. If you want to learn more about me, check out my [personal website](http://tzantchev.com) (still under construction, so it might not yet be active when you're reading this!).
+I'm Konstantin, a CS student at UCLA! I'm interested in all subsets of computer science and want to use CS to have positive impact on the world. If you want to learn more about me, check out my [personal website](https://tzantchev.com) (still under construction, so it might not yet be active when you're reading this!).
 
 # 🖥 Projects
-**Check out my latest project, an interactive plane tracker!** [Try it yourself](http://tzantchev.com/planes).
+**Check out my latest project, an interactive plane tracker!** [Try it yourself](https://tzantchev.com/planes).
 
 I work on various projects, ranging from web apps to image manipulation tools. You'll find all of the code for my open-source ones right here! Here are the three coolest ones in my opinion, but there are many others on here so feel free to explore!
  - [Interactive Plane Tracker](https://github.com/konstantintzt/planetracker)
  - [Sorting algorithm visualizer](https://github.com/konstantintzt/sorting-algorithms)
  - [Image Editor](https://github.com/konstantintzt/Image-Editor)
 
-# ▶ YouTube
+# ▶ YouTube (paused right now)
 
 ## 🎥 Latest video
 <a href="https://youtu.be/6RgEn80goXs"><img src="https://img.youtube.com/vi/6RgEn80goXs/maxresdefault.jpg" width=50% scale=50% alt = "Sorting algorithms visualization"></a>
