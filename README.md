@@ -1,10 +1,7 @@
 # Hello.
-I'm Konstantin, a CS student at UCLA! If you want to learn more about me, check out my [personal website](https://tzantchev.com) (still under construction, so it might not yet be active when you're reading this!).
+I'm Konstantin, a rising junionr in CS at UCLA! To learn more about me, check out my [personal website](https://tzantchev.com).
 
 # Projects.
-**Check out my latest project, an interactive plane tracker!** [Try it yourself](https://tzantchev.com/planes).
+I've worked on many different projects throughout the years, mostly in back-end web development. All of the open-source ones are available on this GitHub page. 
 
-I work on various projects, ranging from web apps to image manipulation tools. You'll find all of the code for my open-source ones right here! Here are the three coolest ones in my opinion, but there are many others on here so feel free to explore!
- - [Interactive Plane Tracker](https://github.com/konstantintzt/planetracker)
- - [Sorting algorithm visualizer](https://github.com/konstantintzt/sorting-algorithms)
- - [Image Editor](https://github.com/konstantintzt/Image-Editor)
+Currently, I'm working on a physics and rendering engine in C++! Check it out [here](https://github.com/konstantintzt/physics-engine)!
