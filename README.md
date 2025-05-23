@@ -1,7 +1,9 @@
 # Hello.
-I'm Konstantin, a rising junior in CS at UCLA! To learn more about me, check out my [personal website](https://tzantchev.com).
+I'm Konstantin, a Software Engineer @ Tavily, and Junior in CS @ UCLA.
 
 # Projects.
-I've worked on many different projects throughout the years, mostly in back-end web development. All of the open-source ones are available on this GitHub page. 
+I'm currently building the leading search engine for LLMs @ Tavily.
+I've also worked on various smaller projects, some of which are on my GitHub. Feel free to check them out!
 
-Currently, I'm working on a physics and rendering engine in C++! Check it out [here](https://github.com/konstantintzt/physics-engine)!
+# Contact.
+Want to talk? Shoot me a message on [LinkedIn](https://linkedin.com/in/tzantchev) or by email.
